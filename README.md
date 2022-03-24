@@ -1,2 +1,2 @@
-# adworldbot
-adworldbot
+# holycowsnft
+holycowsbot
